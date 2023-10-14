@@ -1,2 +1,2 @@
 # OTP_Generator
-Thsi will generate otp using teh Random class ans then send it to the specified phone number.
+This will generate otp using the Random class and then send it to the specified phone number.
